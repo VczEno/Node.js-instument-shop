@@ -1,0 +1,65 @@
+{
+    "instruments": [
+      {
+        "id": 1,
+        "name": "Saxophone",
+        "brand": "JazzMaster",
+        "price": 499.99,
+        "material": "Brass",
+        "weight": "5kg",
+        "dimensions": "70x20x20 cm",
+        "color": "Gold",
+        "description": "A professional saxophone perfect for jazz musicians. It features a brass body and a rich, warm tone.",
+        "image": "🎷"
+      },
+      {
+        "id": 2,
+        "name": "Electric Guitar",
+        "brand": "RockStar",
+        "price": 499.99,
+        "material": "Alder Body, Maple Neck",
+        "weight": "4kg",
+        "dimensions": "100x40x10 cm",
+        "color": "Black",
+        "description": "An electric guitar with a powerful sound, ideal for rock and metal genres. It features an alder body and a maple neck for excellent tone and sustain.",
+        "image": "🎸"
+      },
+      {
+        "id": 3,
+        "name": "Drum Set",
+        "brand": "BeatMaker",
+        "price": 799.99,
+        "material": "Birch Shells, Chrome Hardware",
+        "weight": "20kg",
+        "dimensions": "150x150x120 cm",
+        "color": "Red",
+        "description": "A complete drum set that includes everything you need to start playing. It features birch shells and chrome hardware for a professional look and sound.",
+        "image": "🥁"
+      },
+      {
+        "id": 4,
+        "name": "Keyboard",
+        "brand": "KeyWave",
+        "price": 349.99,
+        "material": "Plastic, Metal",
+        "weight": "5kg",
+        "dimensions": "120x35x10 cm",
+        "color": "Black",
+        "description": "A versatile keyboard with a wide range of sounds and features. It is perfect for both beginners and experienced musicians.",
+        "image": "🎹"
+      },
+      {
+        "id": 5,
+        "name": "Violin",
+        "brand": "StringSymphony",
+        "price": 259.99,
+        "material": "Maple, Spruce",
+        "weight": "1kg",
+        "dimensions": "60x20x10 cm",
+        "color": "Brown",
+        "description": "A beautifully crafted violin for classical and contemporary music. It features a maple body and spruce top for a rich, resonant sound.",
+        "image": "🎻"
+      }
+    ]
+  }
+  
