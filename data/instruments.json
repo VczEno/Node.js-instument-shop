@@ -1,7 +1,7 @@
-{
-    "instruments": [
+
+    [
       {
-        "id": 1,
+        "id": 0,
         "name": "Saxophone",
         "brand": "JazzMaster",
         "price": 499.99,
@@ -13,7 +13,7 @@
         "image": "🎷"
       },
       {
-        "id": 2,
+        "id": 1,
         "name": "Electric Guitar",
         "brand": "RockStar",
         "price": 499.99,
@@ -25,7 +25,7 @@
         "image": "🎸"
       },
       {
-        "id": 3,
+        "id": 2,
         "name": "Drum Set",
         "brand": "BeatMaker",
         "price": 799.99,
@@ -37,7 +37,7 @@
         "image": "🥁"
       },
       {
-        "id": 4,
+        "id": 3,
         "name": "Keyboard",
         "brand": "KeyWave",
         "price": 349.99,
@@ -49,7 +49,7 @@
         "image": "🎹"
       },
       {
-        "id": 5,
+        "id": 4,
         "name": "Violin",
         "brand": "StringSymphony",
         "price": 259.99,
@@ -61,5 +61,4 @@
         "image": "🎻"
       }
     ]
-  }
   
